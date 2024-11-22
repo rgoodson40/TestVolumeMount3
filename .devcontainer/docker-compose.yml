@@ -1,4 +1,4 @@
-name: "testvolumemount_template_compose_stack"
+name: "testvolumemount_3_template_compose_stack"
 
 services:
 
